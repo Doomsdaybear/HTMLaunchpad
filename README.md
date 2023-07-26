@@ -14,4 +14,9 @@ No licenses or anything, feel free to do what you want with the src as long as y
 3. I have not tested this app on any MIDI controllers.
 4. This is an early access app, so it may be prone to bugs. Please report any bugs found on this Repo.
 
+# Current problematic keybinds
+Make sure to disable these in Shortkeys!
+
+1. alt+e (chrome options)
+
    Thanks! -Dooms
