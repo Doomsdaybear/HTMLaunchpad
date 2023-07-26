@@ -23,3 +23,8 @@ function closedhihatone() {
     hihattwo.play();
     hihattwo.currentTime = 0;
 }
+function epiano() {
+    var epiano = new Audio("Assets/Samples/Epiano.wav");
+    epiano.play();
+    epiano.currentTime = 0;
+}
